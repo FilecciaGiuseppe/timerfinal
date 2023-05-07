@@ -251,3 +251,9 @@ flex-wrap: wrap;
 margin-top: 105px;
 margin-bottom: 105px;
 }
+
+.depart p{
+  font-size : 23px;
+  text-decoration: underline;
+  font-weight: bold;
+}
