@@ -228,7 +228,7 @@ animation: x7 8s linear infinite none;
   transform: translate(calc(100vw - 70px),0vh);
 }
 50% {
-  transform: translate(calc(100vw - 70px), calc(80vh - 70px));
+  transform: translate(calc(100vw - 70px), calc(675px - 70px));
 }
 75% {
   transform: translate(0vw, calc(675px - 70px));
